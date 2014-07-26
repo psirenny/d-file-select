@@ -57,4 +57,4 @@ Functions
 Events
 ------
 
-**select(files)** - Event emitted after a file is selected.
+**select(files)** - Event emitted after files are selected.
