@@ -1,0 +1,26 @@
+{
+  "author": "Dennis Torres <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/d-file-select/issues"
+  },
+  "description": "A Derby JS component for selecting files.",
+  "keywords": [
+    "derby",
+    "image",
+    "edit",
+    "photo",
+    "picture"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "d-file-select",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psirenny/d-file-select.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.4.0"
+}
