@@ -34,7 +34,7 @@ Data
 
 The following path data is available to views implementing the component:
 
-**file** - The uploaded file.
+**files** - The uploaded files.
 
 Options
 -------
@@ -57,4 +57,4 @@ Functions
 Events
 ------
 
-**select(file)** - Event emitted after a filel is selected.
+**select(files)** - Event emitted after a file is selected.
