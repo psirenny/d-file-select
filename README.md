@@ -20,7 +20,7 @@ Create a view:
 
 Associate your view with the component:
 
-    app.use('upload', require('d-file-upload'));
+    app.component('upload', require('d-file-upload'));
 
 Elements
 --------
