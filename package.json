@@ -9,7 +9,8 @@
     "image",
     "edit",
     "photo",
-    "picture"
+    "picture",
+    "derby-component"
   ],
   "license": "MIT",
   "main": "index.js",
