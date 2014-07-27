@@ -13,14 +13,14 @@ Usage
 
 Create a view:
 
-    <upload:>
+    <file-select:>
       <div as="dropzone">
         <input type="file" as="input">
       </div>
 
 Associate your view with the component:
 
-    app.component('upload', require('d-file-select'));
+    app.component('file-select', require('d-file-select'));
 
 Elements
 --------
