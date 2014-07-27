@@ -5,12 +5,11 @@
   },
   "description": "A Derby JS component for selecting files.",
   "keywords": [
+    "component",
     "derby",
-    "image",
-    "edit",
-    "photo",
-    "picture",
-    "derby-component"
+    "derby-component",
+    "file",
+    "select"
   ],
   "license": "MIT",
   "main": "index.js",
