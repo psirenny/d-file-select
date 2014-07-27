@@ -46,7 +46,7 @@ Functions
 
 **change($event)** - Use if you have multiple file inputs that must implement the change event.
 
-**clear()** - Clear selected filed.
+**clear()** - Clear selected files.
 
 **dragenter($event)** - Use if you have multiple dropzones that must implement the dragenter event.
 
@@ -56,5 +56,7 @@ Functions
 
 Events
 ------
+
+**clear()** - Event emitted after clearing the files.
 
 **select(files)** - Event emitted after files are selected.

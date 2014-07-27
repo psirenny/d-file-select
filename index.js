@@ -14,6 +14,11 @@ Component.prototype.create = function (model, dom) {
   }
 };
 
+Component.prototype.clear = function () {
+  this.input.value = '';
+  this.emit('clear');
+};
+
 Component.prototype.change = function (e) {
   this.load(e.target.files);
 };
