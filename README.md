@@ -13,7 +13,7 @@ Usage
 
 Create a view:
 
-    <file-select:>
+    <index: element="file-select">
       <div as="dropzone">
         <input type="file" as="input">
       </div>
