@@ -4,6 +4,9 @@
     "url": "https://github.com/psirenny/d-file-select/issues"
   },
   "description": "A Derby JS component for selecting files.",
+  "devDependencies": {
+    "eslint": "^1.9.0"
+  },
   "keywords": [
     "component",
     "derby",
@@ -22,5 +25,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.4.0"
+  "version": "1.0.0"
 }

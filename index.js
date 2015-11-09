@@ -1,4 +1,6 @@
-function Component () {};
+'use strict';
+
+function Component () {}
 
 Component.prototype.create = function (model, dom) {
   var self = this;
